@@ -53,7 +53,7 @@ Follow these steps to get your development environment set up.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Arpan783808/AI_agent_csvreader.git
+git clone https://github.com/kavita9404/AI_agent_csvreader
 cd AI_agent_csvreader
 ```
 
